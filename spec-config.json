@@ -1,0 +1,14 @@
+{
+  "dev" : {
+    "url" : {
+      "protocol" : "https",
+      "domain"   : "dev-opin.nba.com"
+    }
+  },
+  "stag" : {
+    "url" : {
+      "protocol" : "https",
+      "domain"   : "stag-opin.nba.com"
+    }
+  }
+}
